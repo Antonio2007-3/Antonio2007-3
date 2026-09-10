@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy estudiante de ASIR
 
-<!--
+Actualmente estoy cursando **2º de Administración de Sistemas Informáticos en Red (ASIR)**, donde estoy desarrollando conocimientos y experiencia práctica en **administración de sistemas, redes, servidores, virtualización, bases de datos y seguridad informática**.
 
 
-Here are some ideas to get you started:
+### 🛠️ Tecnologías y áreas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🐧 Linux
+* 🪟 Windows Server
+* 🌐 Redes y servicios de red
+* 🖥️ Administración de sistemas
+* 📦 Docker y virtualización
+* 🗄️ Bases de datos
+* 🔐 Seguridad informática
+* ⚙️ Bash y automatización
+* ☁️ Servicios y tecnologías de infraestructura
+
+
