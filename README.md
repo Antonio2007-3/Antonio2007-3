@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy estudiante de ASIR
+# 👋  Soy estudiante de ASIR
 
 Actualmente estoy cursando **2º de Administración de Sistemas Informáticos en Red (ASIR)**, donde estoy desarrollando conocimientos y experiencia práctica en **administración de sistemas, redes, servidores, virtualización, bases de datos y seguridad informática**.
 
